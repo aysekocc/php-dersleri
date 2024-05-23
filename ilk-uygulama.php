@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 
 <?php
-    $title = "merhaba mustafa seni seviyorum";
+    $title = "merhaba ben php öğreniyorum";
 ?>
 <html lang="en">
 <head>
